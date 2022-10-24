@@ -1,0 +1,10 @@
+<Mod
+	name="Перевод скрижалей и не только/RU Translation of Tablets and Beyond"
+	description="Перевод свитков, а также исправление перевода ещё некоторых строк в игре.\nЗаходите в русскоязычное сообщество ВКонтакте - noita_ru"
+	tags="translations"
+	request_no_api_restrictions="0" 
+	is_translation="1"
+	translation_xml_path="mods/noita_ru_trans/translation.xml"
+	translation_csv_path="mods/noita_ru_trans/translation.csv"
+> 
+</Mod>
