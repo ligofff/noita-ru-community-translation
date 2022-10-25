@@ -2835,7 +2835,7 @@ perkdesc_teleportitis_dodge,"Когда вражеский снаряд нахо
 perk_extra_mana,"Больше маны, меньше ёмкости (одноразовый эффект)","High Mana, Low Capacity (One-off)",,,,,,
 perkdesc_extra_mana,"Жезл, который вы держите, теряет половину ячеек для заклинаний, но получает больше маны.","Your currently held wand loses half its capacity, but gains more mana.",,,,,,
 perk_homunculus,Гомункул,Homunculus,,,,,Homunculus - alchemically created small humanoid creature ,
-perkdesc_homunculus,"Каждый раз, когда вы покидает Святую гору, призывается гомункул-помощник.","Every time you leave a Holy Mountain, a helpful homunculus is summoned.",,,,,Homunculus - alchemically created small humanoid creature ,
+perkdesc_homunculus,"Каждый раз, когда вы покидаете Святую гору, призывается гомункул-помощник.","Every time you leave a Holy Mountain, a helpful homunculus is summoned.",,,,,Homunculus - alchemically created small humanoid creature ,
 action_larpa_death,Ларпа-взрыв,Larpa Explosion,,,,,,
 actiondesc_larpa_death,"Снаряд выпускает 8 своих копий, когда исчезнет или столкнётся с землёй",A projectile will shoot out 8 copies of itself when it expires or hits the ground,,,,,,
 action_bounce_larpa,Ларпа-отскок,Larpa Bounce,,,,,,
