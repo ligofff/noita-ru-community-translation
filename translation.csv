@@ -2879,7 +2879,7 @@ perkdesc_low_recoil,"Отдача от ваших заклинаний силь�
 perk_projectile_repulsion_sector,Сектор отталкивания снарядов,Projectile Repulsion Sector,,,,,,
 perkdesc_projectile_repulsion_sector,"Снаряды, залетающие в небольшой сектор перед вами, отталкиваются в сторону.",Projectiles that fly into a small sector in front of you get blown away.,,,,,,
 perk_projectile_eater_sector,Пожирание снарядов,Projectile Eater,,,,,,
-perkdesc_projectile_eater_sector,"Снаряды, залетающий в небольшой сектор за вами, исчезают.",Projectiles that fly into a small sector behind of you disappear.,,,,,,
+perkdesc_projectile_eater_sector,"Снаряды, залетающие в небольшой сектор за вами, исчезают.",Projectiles that fly into a small sector behind of you disappear.,,,,,,
 status_wither,Истощение,Withered,,,,,,
 statusdesc_wither,Вы временно более уязвимы ко всем типам урона.,You're temporarily more vulnerable to all damage types.,,,,,,
 perk_projectile_slow_field,Замедление снарядов,Projectile Slower,,,,,,
